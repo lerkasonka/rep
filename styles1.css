@@ -2,3 +2,8 @@
     color: brown;
     font-size: 56px;
 }
+
+.table th {
+    color: aqua;
+    background-color: black;
+}
