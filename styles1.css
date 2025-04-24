@@ -1,3 +1,8 @@
 .title {
     color: brown;
 }
+
+.table th {
+    color: aqua;
+    background-color: black;
+}
